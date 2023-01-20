@@ -2,12 +2,12 @@ name: snowflake-devops-demo
 
 # Controls when the action will run. 
 on:
-  schedule:
-      push:
+  push:
        branches:
          - main
        paths:
          - 'migrations/**'
+  schedule:
       - cron: "40 7 * * 5"    
       
     
