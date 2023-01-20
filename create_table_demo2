@@ -1,0 +1,1 @@
+create table demo2 (name varchar , id varchar,city varchar);
