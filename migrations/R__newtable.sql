@@ -1,2 +1,2 @@
 use schema demo;
-create table demo9 (name varchar , id varchar,city varchar,sign varchar);
+create table demo29 (name varchar , id varchar,city varchar,sign varchar);
