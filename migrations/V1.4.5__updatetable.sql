@@ -1,2 +1,2 @@
 use schema demo;
-update table demo4 set name ='harshal1' where id='1';
+update demo4 set name ='harshal1' where id='1';
