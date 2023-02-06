@@ -1,1 +1,1 @@
-alter table flyway_demo.public.poc drop column website;
+use schema demo;
